@@ -26,7 +26,7 @@ They are represented in an .xlsx file containing the following eleven headers:
 twitter_full_dataset_v1_sharable (october 2022): First version of the corpus, comprising 381 dialogues and 954 utterances, involving accounts related to TeleCommunications, Healthcare, and e-Commerce.
 
 
-twitter_full_dataset_v2_sharable (february 2023): Second version of the corpus, comprising 916 dialogues and 2,285 utterances, involving accounts related to TeleCommunications, Healthcare, and e-Commerce.
+twitter_full_dataset_v2_sharable (february 2023): Second version of the corpus, expanded to include 916 dialogues and 2,285 utterances.
 
 # How to Cite
 
